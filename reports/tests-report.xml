@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="/Users/franciscobanda/Development/<<[(ds "config").application_name]>>/src/App.test.tsx">
+        <testCase name="renders learn react link" duration="54"/>
+    </file>
+</testExecutions>
